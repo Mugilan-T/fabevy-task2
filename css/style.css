@@ -1,0 +1,253 @@
+*{
+     padding:0px;
+	 margin:0px;
+	 box-sizing:border-box;
+}
+body{
+	background-color:#f5f5f5;
+}
+.container{
+	width:1150px;
+	margin:0 auto;
+	background-color:#fff;
+	padding:20px 30px;
+	
+}
+.header img{
+	border:3px solid black;
+	width:80px;
+    height:80px;
+    border-radius: 50px;
+    margin-top:20px;
+	margin-left:30px;
+}
+
+
+.menu ul li a{
+	  
+	  text-decoration:none;
+	  color:black;
+} 
+.userimg{
+	width:13%;
+}
+.ur{
+	width:88%;
+}
+
+.hdn1{
+	
+    border-bottom:1px solid lightgrey;
+	padding-bottom:10px;
+	margin-bottom:10px;
+}
+.header .menu ul{
+	list-style:none;
+
+}
+.menu ul li a{
+	color:#999;
+	display:inline;
+}
+
+.header {
+	display:flex;
+	align-items:center;
+	
+}
+.header .menu ul li{
+	display:inline-block;
+	margin:0 15px;
+}
+.menu ul li a:hover{
+	color:black;
+}
+
+.container2{
+	border:4px solid;
+	background-color:black;
+	padding:40px 15px;
+	margin-top:10px;
+	text-align:center;
+	margin-left:25px;
+	
+}
+.bdr p{
+	color:white;
+
+}
+body{
+	font-family: 'Roboto', sans-serif;
+}
+	
+h3{
+	color:#999;
+	padding-bottom:10px;
+}
+button{
+	color:white;
+	background-color:black;
+	border:1px solid white;
+	text-align:center;
+	padding:10px;
+	margin-top:10px;
+}
+.p1{
+	
+	font-size:20px;
+	font-weight:bold;
+}
+.p2{
+	padding-top:10px;
+}
+
+.skill img{
+	margin-top:10px;
+	
+}
+
+.data{
+	border-top:1px solid lightgrey;
+	margin-top:20px;
+	margin-left:20px;
+	padding:10px;
+}
+.skill{
+	padding:10px;
+	
+}
+.course ul{
+	list-style:none;
+	display:flex;
+	justify-content:space-around;
+	margin-top:10px;
+	margin-right:300px;
+}
+.education{
+	border-top:1px solid lightgrey;
+	margin-top:30px;
+	
+	
+}
+.skl{
+	display:flex;
+	align-items:center;
+}
+.ct2{
+	display:flex;
+	align-items:center;
+}
+.ct{
+	padding:10px;
+}
+.part{
+	display:flex;
+	align-items:center;
+
+}
+.part1{
+	border-left-style:solid;
+	margin:20px;
+	padding:5px;
+}
+.part11 p{
+	margin-left:440px;
+	border:1px solid;
+	border-color:white;
+	padding:20px;
+	background-color:lightgrey;
+	
+}
+.parta{
+	display:flex;
+	align-items:center;
+}
+.part2{
+	border-left-style:solid;
+	margin:20px;
+	padding:5px;
+}
+.part22 p{
+	margin-left:440px;
+	border:1px solid;
+	border-color:white;
+	padding:20px;
+	background-color:lightgrey;
+}
+.partb{
+	display:flex;
+	align-items:center;
+}
+.part3{
+	border-left-style:solid;
+	margin:20px;
+	padding:5px;
+}
+.part33 p{
+	margin-left:440px;
+	border:1px solid;
+	border-color:white;
+	padding:20px;
+	background-color:lightgrey;
+}
+.project{
+	border-top:1px solid lightgrey;
+	
+}
+.pict{
+	display:flex;
+	align-items:center;
+}
+.word{
+	padding:10px;
+}
+.pr1{
+	border-left-style:solid;
+	margin:20px;
+	padding:5px;
+}
+.pr2{
+	border-left-style:solid;
+	margin:20px;
+	padding:5px;
+}
+.pr3{
+	border-left-style:solid;
+	margin:20px;
+	padding:5px;
+}
+#ft{
+	
+	font-size:12px;
+}
+.image{
+	margin-top:10px;
+	margin-bottom:10px;
+}
+.image1{
+	margin-right:10px;
+}
+.image2{
+	margin-right:10px;
+}
+.image3{
+	margin-right:10px;
+}
+.image4{
+	margin-right:10px;
+}
+.image5{
+	margin-right:10px;
+}
+.image6{
+	margin-right:10px;
+}
+.image7{
+	margin-right:10px;
+}
+.education h2{
+	margin:10px;
+}
+.project h2{
+	margin:10px;
+}
